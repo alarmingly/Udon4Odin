@@ -51,7 +51,6 @@ python udon.py
 ## Notes
 
 * Linux is the only supported OS.
-* Use `pkexec` for elevated permissions when flashing.
 * Windows users should stick with the official Odin tool.
 
 * I am aware that this code is not good, I am not very good at coding, this is a very simple thing that i made with some help from ChatGPT
